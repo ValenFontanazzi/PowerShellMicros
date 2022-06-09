@@ -1,0 +1,7 @@
+#TYPE System.Data. DataRow
+"VM, ""Assigned CPU"", ""Used CPU"", ""Assigned Memory"", ""Used Memory"""
+"ESXi4nitto,""5186"",""77"",""4096"",""81"""
+"TrueNAS-MOPS,""5188"",""181"",""8192"",""819"""
+"esxi2-nitto, ""10376"",""129"",""15360"",""153"""
+"ubuntu2-jd,""10376"",""25"", ""4096"",""81"""
+"esxi-nitto,""10376"",""129"",""15360"",""307"""
